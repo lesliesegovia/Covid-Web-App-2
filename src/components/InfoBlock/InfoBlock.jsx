@@ -6,7 +6,7 @@ function InfoBlock (props){
         <div className="info-block">
             <h1>{props.title}</h1>
             <p>{props.info}</p>
-            <img src={props.img}/>
+            <img src={props.img} alt={props.alt}/>
         </div>
     );
 }

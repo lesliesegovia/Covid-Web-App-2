@@ -9,11 +9,11 @@
     margin: auto;
 }
 
-ul{
+.symptom-list ul{
     list-style-type: none;
 }
 
-li{
+.symptom-list li{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     /* width: 50%; */
