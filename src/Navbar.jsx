@@ -15,7 +15,7 @@ function Navbar(){
             <Link to="/about">About</Link>
             <a href="#prevent">Prevent</a>
             <a  href="#about">Stats</a>
-            <a  href="#contact">Testing</a>
+            <a  href="#contact">Testing Sites</a>
         </div>
     );
 }

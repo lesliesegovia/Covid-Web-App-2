@@ -16,11 +16,11 @@
   }
   
   .navbar a:hover {
-  color: rgb(156, 156, 156);
+  color: #c9e265;
   }
   
   .navbar a.active {
-    color: rgb(156, 156, 156);
+    color: #c9e265;
   }
   
 /* ------------------------------- HEADER ------------------------------ */
